@@ -1,61 +1,19 @@
 
-# Project Title
+# Skysync
 
-A brief description of what this project does and who it's for
+Step into the world of SkySync, your ultimate weather companion! More than just a typical weather website, SkySync serves as your all-encompassing platform for a seamless and comprehensive weather experience. Let's explore the versatile functionalities that set SkySync apart.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, API
-
-## Demo
-
-Insert gif or link to demo
+HTML, CSS, JavaScript, API
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Our real-time weather forecasting keeps you steps ahead from everyone. Rain, hail, sunshine, breeze, every knowledge is now at your fingertips. SkySync keeps you updated, refreshing the feed every minute.
+- Explore weather trends across the globe. Different location, different time zones, this one app is all you need. 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
-```
-
-
-## Authors
-
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@Devansh-Kushwaha](https://github.com/Devansh-Kushwaha)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
